@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Lusin Ohanyan!<br>💼 I’m currently working at Worx LLC as a Front-End Developer<br>💻 I’m currently working on websites using the Bubble and Caspio platforms.<br>📚 I have learned C, C++, HTML, CSS, JavaScript, and Linux.<br>📫You can reach me at lusinoganan@gmail.com.<br>
+👋 Hi, I'm Lusin Ohanyan!<br>💼 I’m currently working at Worx LLC as a software engineer<br>💻 I’m currently working on websites using the Bubble and Caspio platforms.<br>📚 I have learned C, C++, HTML, CSS, JavaScript, and Linux.<br>📫You can reach me at lusinoganan@gmail.com.<br>
 
 
 ## 🌐 Socials:
